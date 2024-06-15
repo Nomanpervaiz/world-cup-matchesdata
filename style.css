@@ -81,41 +81,15 @@ section {
   width: 185px;
   justify-content: end;
 }
-.score1 {
-
-  display: inline-flex;
-  width: 270px;
-  justify-content: end;
-}
-.score2 {
-  display: inline-flex;
-  width: 258px;
-  justify-content: end;
-}
-.score3 {
-
-  display: inline-flex;
-  width: 255px;
-  justify-content: end;
-}
-.score4 {
-  display: inline-flex;
-  width: 315px;
-  justify-content: end;
-}
-.score5 {
-
-  display: inline-flex;
-  width: 290px;
-  justify-content: end;
-}
-.score6 {
-  display: inline-flex;
-  width: 290px;
-  justify-content: end;
-}
 
 span{
   display: flex;
+}
 
+.teamname{
+  width: 70%;
+}
+.para{
+  display: flex;
+  justify-content: space-between;
 }
