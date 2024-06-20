@@ -17,7 +17,6 @@ let match28 = new MatchesData("England", "Oman", "Starts at 12:00 am", null, nul
 let match29 = new MatchesData("Afganistan", "Papua New Guinea", "Starts at 5:30 am", null, null, "Tomorrow", "img/download (5).png", "img/download (6).png");
 
 
-
 // created function for create html
 function createHtml(match, index) {
   const { teamOne, teamTwo, winnerTeam, scoreTeamOne, scoreTeamTwo, statuss, teamOneFlag, teamTwoFlag } = match;
